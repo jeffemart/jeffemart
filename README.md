@@ -46,10 +46,10 @@
 <a href="jefferson.github@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-jeffemart-05122A?style=flat&logo=gmail" alt="Gmail"/>
 </a>
-<a href="www.linkedin.com/in/jeffersonmart" target="_blank">
+<a href="https://www.linkedin.com/in/jeffersonmart/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-jeffemart-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/jeff_mar" target="_blank">
+<a href="https://www.instagram.com/jeffe_mar/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-jeffemart-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
