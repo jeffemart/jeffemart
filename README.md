@@ -46,7 +46,7 @@
 <a href="jefferson.developers@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-jeffemart-05122A?style=flat&logo=gmail" alt="Gmail"/>
 </a>
-<a href="[https://www.linkedin.com/in/jeffersonmart/](https://www.linkedin.com/in/jefferson-martins-a6802b249/)" target="_blank">
+<a href="https://www.linkedin.com/in/jefferson-martins-a6802b249/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-jeffemart-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/jeffe_mar/" target="_blank">
