@@ -43,7 +43,7 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="jefferson.developers@gmail.com" target="_blank">
+<a href="mailto:jefferson.developers@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-jeffemart-05122A?style=flat&logo=gmail" alt="Gmail"/>
 </a>
 <a href="https://www.linkedin.com/in/jefferson-martins-a6802b249/" target="_blank">
