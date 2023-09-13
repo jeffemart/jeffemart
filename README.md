@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/jeffemart/3a2b9fdd9ffe7c974168501138c4ccae/raw/5a0dbade641326085b2085b681cdf8dca8be785c/overview.svg"/>
+<img align="right" height="590em" src="https://res.cloudinary.com/dx70wyorg/image/upload/v1694608544/Crach%C3%A1_empresarial_moderno_azul_e_branco_Cart%C3%A3o_fy2zuv.png"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Jefferson!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffemart&color=yellow" alt="Profile views" /> </p>
 
