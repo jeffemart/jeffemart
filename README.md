@@ -1,18 +1,18 @@
-<img align="right" height="590em" src="https://res.cloudinary.com/dx70wyorg/image/upload/v1694608544/Crach%C3%A1_empresarial_moderno_azul_e_branco_Cart%C3%A3o_fy2zuv.png"/>
-
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Jefferson!</h1>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jeffemart&color=yellow" alt="Profile views" />
-</p>
-
-- 🔥 **Analista e desenvolvedor web** focado em **programação**
-- 🔭 Atualmente trabalhando na **Online Telecom**
-- 💬 Pergunte-me sobre **GoLang, JavaScript, SQL, Python, Docker, Linux**
-- ⚡ Curiosidade: **Oneye 😜**
-- 👨‍💻 Saiba mais sobre mim em [LinkedIn](https://www.linkedin.com/in/jefferson-martins-a6802b249)
-
-<br><br>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <h1 align="left">Olá 👋, eu sou Jefferson!</h1>
+    <p align="left">
+      🔥 Analista e desenvolvedor web focado em programação<br>
+      🔭 Atualmente trabalhando na Online Telecom<br>
+      💬 Pergunte-me sobre **GoLang, JavaScript, SQL, Python, Docker, Linux**<br>
+      ⚡ Curiosidade: Oneye 😜<br>
+      👨‍💻 Saiba mais sobre mim em <a href="https://www.linkedin.com/in/jefferson-martins-a6802b249">LinkedIn</a>
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <img height="400em" src="https://res.cloudinary.com/dx70wyorg/image/upload/v1694608544/Crach%C3%A1_empresarial_moderno_azul_e_branco_Cart%C3%A3o_fy2zuv.png"/>
+  </div>
+</div>
 
 ## 🛠 &nbsp;Tech Stack
 
