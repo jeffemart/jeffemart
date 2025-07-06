@@ -1,5 +1,3 @@
-<img align="right" height="590em" src="https://res.cloudinary.com/dx70wyorg/image/upload/v1694608544/Crach%C3%A1_empresarial_moderno_azul_e_branco_Cart%C3%A3o_fy2zuv.png"/>
-
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Jefferson!</h1>
 
 <p align="left">
