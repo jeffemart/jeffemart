@@ -56,7 +56,4 @@
   <a href="https://www.linkedin.com/in/jefferson-martins-a6802b249/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-jeffemart-05122A?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/jeffe_mar/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-jeffemart-05122A?style=flat&logo=instagram" alt="Instagram"/>
-  </a>
 </p>
